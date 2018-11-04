@@ -1,0 +1,8 @@
+name: ConsoleCommand
+version: 1.0
+api: 3.0.0,3.3.0
+main: console\Main
+author: ThePlastus
+commands:
+ console:
+  description: "Use console from server level"
